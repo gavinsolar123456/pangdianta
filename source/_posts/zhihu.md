@@ -1,7 +1,7 @@
 ---
 title: zhihu
 date: 2017-03-11 19:45:00
-tags:
+tags: street
 ---
 > Vue.js是我所喜爱的，知乎也是我喜爱的，突发奇想使用vue做了一个知乎日报
 

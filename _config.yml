@@ -7,7 +7,7 @@ title: 街头摄影
 subtitle: 胖电塔与街头摄影
 description: 胖电塔与街头摄影
 author: 胖电塔与街头摄影
-language: cn
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: Hacker
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
