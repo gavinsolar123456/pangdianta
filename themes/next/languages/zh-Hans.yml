@@ -9,7 +9,7 @@ author: 博主
 menu:
   home: 首页
   archives: 归档
-  categories: 分类
+  categories: 栏目
   tags: 标签
   about: 关于
   search: 搜索
@@ -50,8 +50,8 @@ counter:
 
   categories:
     zero: 暂无分类
-    one: 目前共计 1 个分类
-    other: "目前共计 %d 个分类"
+    one: 目前共计 1 个栏目
+    other: ""
 
   archive_posts:
     zero: 暂无日志。
@@ -62,7 +62,7 @@ state:
   posts: 日志
   pages: 页面
   tags: 标签
-  categories: 分类
+  categories: 栏目
 
 search:
   placeholder: 搜索...
